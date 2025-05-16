@@ -39,3 +39,4 @@ Pure JavaScript implementation of ZeroNet.
 *coming soon...*
 
 Released under the terms of the [MIT LICENSE](LICENSE).
+#node-rate
